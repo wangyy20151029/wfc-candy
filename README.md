@@ -21,4 +21,6 @@ cd wfc-candy
 
 6 npm run start
 
+7 访问 http://localhost:8089 就可以体验发糖果了
 
+8 如果需要修改服务端口 请修改 index.js 的serport参数
