@@ -14,6 +14,7 @@ sudo apt-get install redis-server
 如修改了主链的用户名和密码需修改index.js里相应的参数。
 
 4 git clone https://github.com/wificoin-project/wfc-candy/
+
 cd wfc-candy
 
 5 npm update
