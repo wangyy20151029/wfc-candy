@@ -1,0 +1,19 @@
+{
+  "name": "wfc-candy",
+  "version": "1.0.0",
+  "description": "wfc-candy",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "forever start index.js",
+    "stop": "forever stop index.js"
+  },
+  "author": "lu",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoin": "^3.0.1",
+    "express": "^4.16.3",
+    "redis": "^2.8.0",
+    "stringbuffer": "^1.0.0"
+  }
+}
